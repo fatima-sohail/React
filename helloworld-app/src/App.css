@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    margin: 3rem;
+    background-color: #f3ddea;
+  }
+  
+  h1 {
+    color: rgb(203, 21, 42);
+  }
+
+  h2 {
+    color:rgb(40, 97, 147)
+  }
+
+  .container {
+    margin: 30px auto;
+    position:relative;
+    width: 350px;
+  }
+
+  img {
+	height: 365px;
+}
+  
