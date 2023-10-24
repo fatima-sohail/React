@@ -44,6 +44,6 @@
   justify-content: center;
   min-height: 100vh;
   /*background-color: #282c34; Background color for the entire page */
-  color: white;
+  color: rgb(46, 44, 43);
   font-size: calc(10px + 2vmin);
 }
