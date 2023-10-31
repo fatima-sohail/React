@@ -23,3 +23,4 @@ const colorNames = ['Aquamarine', 'BlueViolet', 'Chartreuse', 'CornflowerBlue', 
 
 
 export default ColorPicker;
+
